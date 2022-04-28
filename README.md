@@ -4,8 +4,6 @@ _Type_: Codealong/Lab
 
 _Duration_: :45 
 
-_Designed by_: Jeffry Horn / Zakk Fleischman (DC-WDI-React)
-
 ### Technologies / Techniques
 
 - React functional components
